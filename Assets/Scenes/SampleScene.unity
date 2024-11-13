@@ -6057,12 +6057,12 @@ MonoBehaviour:
   _ellipsoidOverride: {fileID: 0}
   _originPlacement: 1
   _originAuthority: 0
-  _latitude: 39.736401
-  _longitude: -105.25737
-  _height: 2250
-  _ecefX: -1292934.4950404565
-  _ecefY: -4740026.104285267
-  _ecefZ: 4056960.1513377777
+  _latitude: 47.317083
+  _longitude: 5.065267
+  _height: 0
+  _ecefX: 4314923.271077814
+  _ecefY: 382460.2213413325
+  _ecefZ: 4665734.699796207
   _scale: 1
 --- !u!4 &1445708457
 Transform:
