@@ -804,6 +804,9 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
+    Server: https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyAIa3TkyN5ObzrsFKtrNmMVhJ0LD3Ed5w0
+    Standalone: https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyAIa3TkyN5ObzrsFKtrNmMVhJ0LD3Ed5w0
+    WebGL: https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyAIa3TkyN5ObzrsFKtrNmMVhJ0LD3Ed5w0
     iPhone: UNITY_XR_ARKIT_LOADER_ENABLED
   additionalCompilerArguments: {}
   platformArchitecture: {}

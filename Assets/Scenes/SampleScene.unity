@@ -4083,7 +4083,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _showCreditsOnScreen: 1
   _tilesetSource: 1
-  _url: https://tile.googleapis.com/v1/3dtiles/root.json?key=REMOVED_KEY
+  _url: https://tile.googleapis.com/v1/3dtiles/root.json?key={REMOVED_KEY}
   _ionAssetID: 0
   _ionAccessToken: 
   _ionServer: {fileID: 11400000, guid: 8dd523993c2d53c4ab0131331bc8eb19, type: 2}
